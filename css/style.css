@@ -1,0 +1,65 @@
+/*
+ * Colorscheme: ashes.dark
+ * Photo Credit: kidchan (DA)
+ */
+
+body {
+  height: 100%;
+  background-color: #282a2e;
+  color: #c7ccd1;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 400px;
+  text-align: left;
+}
+
+#image{
+  display: block;
+  height: 88vh;
+  padding-top: 10%;
+}
+
+#search {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#field {
+  width: 388px;
+  background-color: #282a2e;
+  border: 2px solid #fbe399;
+  padding: 5px;
+  color: #c7ccd1;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fbe399;
+  padding-right: 5px;
+}
+
+.main {
+  color: #f89f41;
+  font-weight: 500;
+  border-left: solid;
+  padding-left: 7px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+#flexwrap {
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  margin-left: 15%;
+}
+
+#row2 {
+  padding-left: 5%;
+}
